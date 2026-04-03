@@ -1,0 +1,21 @@
+# LangChain ReAct Agent with Granite 4 Micro - Dependencies
+
+# Core LangChain
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-ollama>=0.1.0
+
+# Ollama integration
+ollama>=0.1.0
+
+# Web search capability
+duckduckgo-search>=4.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Optional: Environment configuration
+python-dotenv>=1.0.0
+
+# Optional: Better terminal output
+rich>=13.0.0
