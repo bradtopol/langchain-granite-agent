@@ -1,0 +1,10 @@
+# OpenClaw Orchestration Requirements
+# Simple multi-agent orchestration framework
+
+# HTTP requests for Ollama API
+requests>=2.31.0
+
+# Type hints support (Python 3.8+)
+typing-extensions>=4.8.0
+
+# Made with Bob
